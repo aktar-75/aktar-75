@@ -120,6 +120,10 @@ Developed AWS Lambda and Python automation to identify underutilized cloud resou
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abed-aktar" height="30" width="40" />
 </a>
 
+<a href="https://www.instagram.com/abeddev_/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abeddev_" height="30" width="40" />
+</a>
+
 <a href="https://github.com/aktar-75" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="30" width="40" />
 </a>
