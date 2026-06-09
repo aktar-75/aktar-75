@@ -3,6 +3,7 @@
 
 <h3 align="center">
 Cloud & DevOps Engineer | AWS | Kubernetes | Terraform | GitOps | AI Infrastructure
+Previously worked at Amazon (AWS), Sopra Steria, and Dependopolis, building cloud-native platforms, Kubernetes environments, CI/CD pipelines, and AI-powered infrastructure solutions.
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
