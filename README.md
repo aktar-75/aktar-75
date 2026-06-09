@@ -6,9 +6,7 @@ Cloud & DevOps Engineer | AWS | Kubernetes | Terraform | GitOps | AI Infrastruct
 </h3>
 
 <p align="center">
-<sub>
 Previously worked at Amazon (AWS), Sopra Steria, and Dependopolis
-</sub>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
